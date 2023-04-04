@@ -4,7 +4,7 @@ ul {list-style: none;}
 .logo-blue {color: #2196F3; font-size:26px; font-family: Raleway; font-weight: 700; line-height: 1.18; text-decoration: none;}
 .logo-black {color: #000000; }
 .black-link {color: #212121;  line-height: 1.15; letter-spacing: 0.02em; text-decoration: none; }
-.black-link:hover, .contact:hover {color: #2196F3; cursor: pointer}
+.black-link:hover, .contact:hover {color: #2196F3; cursor: pointer; }
 .contact {color: #757575; line-height: 1.15; letter-spacing: 0.02em; text-decoration: none;}
 .main-logo {color: #FFFFFF; font-size: 44px; font-weight: 900; line-height: 1.4; letter-spacing: 0.06em; }
 .main-background {background-color: #2F303A; width: 100%; height: 600px; text-align: center; }
